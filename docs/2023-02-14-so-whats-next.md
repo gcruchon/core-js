@@ -240,7 +240,7 @@ The endless stream of hatred decreased slightly over time but continues. However
 
 **Open-source should be out of politics.**
 
-As stated in a [github issue](https://github.com/zloirock/core-js/issues/1051#issuecomment-1053487696): "I'm against war. I'm against the current Russian government".
+`core-js` is apolitical. If you want my personal opinion, check this [github issue](https://github.com/zloirock/core-js/issues/1051#issuecomment-1053487696).
 
 Let me remind you what I wrote about above: I returned to Russia because it was a place where it was possible to have a decent standard of living for relatively little money and to concentrate on FOSS instead of making money. Now I cannot leave Russia, because after the accident I have outstanding lawsuits in the amount of tens of thousands of dollars and I am forbidden to leave the country until they are paid off.
 
